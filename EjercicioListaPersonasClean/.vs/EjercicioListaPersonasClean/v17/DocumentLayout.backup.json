@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\ejerciciolistapersonasmvcclean\\ejerciciolistapersonasclean\\domain\\usecase\\defaultgetlistapersonasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|solutionrelative:domain\\usecase\\defaultgetlistapersonasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\ejerciciolistapersonasmvcclean\\ejerciciolistapersonasclean\\domain\\interfaces\\igetlistapersonasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\igetlistapersonasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\ejerciciolistapersonasmvcclean\\ejerciciolistapersonasclean\\domain\\repositories\\igetlistapersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\igetlistapersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\ejerciciolistapersonasmvcclean\\ejerciciolistapersonasclean\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\ejerciciolistapersonasmvcclean\\ejerciciolistapersonasclean\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DAFB68-BE7B-4A0F-9F27-75B8556E9CD5}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\ejerciciolistapersonasmvcclean\\ejerciciolistapersonasclean\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20DAFB68-BE7B-4A0F-9F27-75B8556E9CD5}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|c:\\users\\usuario\\desktop\\ejerciciolistapersonasmvcclean\\ejerciciolistapersonasclean\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DAFB68-BE7B-4A0F-9F27-75B8556E9CD5}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\ejerciciolistapersonasmvcclean\\ejerciciolistapersonasclean\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DAFB68-BE7B-4A0F-9F27-75B8556E9CD5}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultGetListaPersonasUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\UseCase\\DefaultGetListaPersonasUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCase\\DefaultGetListaPersonasUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\UseCase\\DefaultGetListaPersonasUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCase\\DefaultGetListaPersonasUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:51:14.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGetListaPersonasUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\Interfaces\\IGetListaPersonasUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IGetListaPersonasUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\Interfaces\\IGetListaPersonasUseCase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IGetListaPersonasUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:48:47.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGetListaPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\Repositories\\IGetListaPersonas.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IGetListaPersonas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\Repositories\\IGetListaPersonas.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IGetListaPersonas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:53:24.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T15:47:48.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:22:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UI",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T14:41:28.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T14:39:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EjercicioListaPersonasMVCClean\\EjercicioListaPersonasClean\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:39:19.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

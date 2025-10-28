@@ -1,5 +1,6 @@
 ﻿using Domain.Entities;
 using Domain.Interfaces;
+using Domain.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,9 +11,16 @@ namespace Domain.UseCase
 {
     public class DefaultGetListaPersonasUseCase : IGetListaPersonasUseCase
     {
+        private readonly IGetListaPersonas _repository;
+    
+        public DefaultGetListaPersonasUseCase(IGetListaPersonas getListaPersonas)
+        {
+            _repository = getListaPersonas;
+        }
+
         public Persona[] getListaPersonas()
         {
-            throw new NotImplementedException();
+            return _repository.getListaPersonas();
         }
     }
 }
