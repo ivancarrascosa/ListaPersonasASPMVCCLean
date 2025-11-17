@@ -12,10 +12,15 @@ namespace Domain.Entities
         private int _id;
         private string _nombre;
         private string _apellido;
+        public DateTime fechaNac {  get; set; }
+
+        public String direccion { get; set; }
+
+        public String telefono { get; set; }
 
         #endregion
         #region getters y setters
-        public int id { get { return _id; } }
+        public int id { get { return _id; } set { _id = value; } }
         public string nombre
         {
             get { return _nombre; }

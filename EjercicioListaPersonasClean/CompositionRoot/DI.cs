@@ -1,4 +1,5 @@
 ﻿
+using Data.Repositories;
 using Domain.Interfaces;
 using Domain.Repositories;
 using Domain.UseCase;
@@ -12,7 +13,7 @@ namespace CompositionRoot
         public static IServiceCollection AddCompositionRoot(this IServiceCollection services, IConfiguration configuration)
         {
             //Registrar repositorios concretos
-            services.AddScoped<IGetListaPersonas, Data.PersonasRepositorio>();
+            services.AddScoped<IGetListaPersonas, PersonasRepositoryAzure>();
 
             //Registrar casos de uso
             services.AddScoped<IGetListaPersonasUseCase, DefaultGetListaPersonasUseCase>();
