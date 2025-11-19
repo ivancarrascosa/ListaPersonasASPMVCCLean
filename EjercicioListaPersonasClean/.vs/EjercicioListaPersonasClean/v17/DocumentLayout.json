@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\ui\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20DAFB68-BE7B-4A0F-9F27-75B8556E9CD5}|Data\\Data.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\data\\repositories\\personasrepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20DAFB68-BE7B-4A0F-9F27-75B8556E9CD5}|Data\\Data.csproj|solutionrelative:data\\repositories\\personasrepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48BCD9FF-5D59-4C6F-9EB1-B30DD2006FC3}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48BCD9FF-5D59-4C6F-9EB1-B30DD2006FC3}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AB61CC-A036-42B4-84E0-BBE258A5B4A4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20DAFB68-BE7B-4A0F-9F27-75B8556E9CD5}|Data\\Data.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\data\\repositories\\repositoriovacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|c:\\users\\ivan.carrascosa\\desktop\\listapersonasaspmvcclean\\ejerciciolistapersonasclean\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ACFA99E-3DBD-44FC-B300-E892F0A95D8E}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,33 +62,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\UI\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\UI\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T12:31:15.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T12:18:53.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\Domain\\Entities\\Persona.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
               "ToolTip": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\Domain\\Entities\\Persona.cs",
               "RelativeToolTip": "Domain\\Entities\\Persona.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T13:23:02.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PersonasRepositoryAzure.cs",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\Data\\Repositories\\PersonasRepositoryAzure.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\PersonasRepositoryAzure.cs",
               "ToolTip": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\Data\\Repositories\\PersonasRepositoryAzure.cs",
               "RelativeToolTip": "Data\\Repositories\\PersonasRepositoryAzure.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T13:13:48.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RepositorioVacio.cs",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\Data\\Repositories\\RepositorioVacio.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\RepositorioVacio.cs",
@@ -88,12 +122,11 @@
               "RelativeToolTip": "Data\\Repositories\\RepositorioVacio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T13:13:24.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T13:13:24.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PersonasRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\Data\\Repositories\\PersonasRepositorio.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\PersonasRepositorio.cs",
@@ -101,12 +134,11 @@
               "RelativeToolTip": "Data\\Repositories\\PersonasRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T13:09:15.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T13:09:15.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Connection.cs",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\Data\\Database\\Connection.cs",
               "RelativeDocumentMoniker": "Data\\Database\\Connection.cs",
@@ -114,25 +146,23 @@
               "RelativeToolTip": "Data\\Database\\Connection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T13:09:06.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T13:09:06.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Data",
+              "DocumentIndex": 8,
+              "Title": "Data.csproj",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\Data\\Data.csproj",
               "RelativeDocumentMoniker": "Data\\Data.csproj",
               "ToolTip": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\Data\\Data.csproj",
               "RelativeToolTip": "Data\\Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-17T13:08:37.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T13:08:37.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\UI\\Program.cs",
               "RelativeDocumentMoniker": "UI\\Program.cs",
@@ -140,12 +170,11 @@
               "RelativeToolTip": "UI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T12:42:29.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T12:42:29.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "UI.csproj",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\UI\\UI.csproj",
               "RelativeDocumentMoniker": "UI\\UI.csproj",
@@ -153,25 +182,24 @@
               "RelativeToolTip": "UI\\UI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-03T12:34:17.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T12:34:17.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\UI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\UI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T12:14:48.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DI.cs",
               "DocumentMoniker": "C:\\Users\\ivan.carrascosa\\Desktop\\ListaPersonasASPMVCCLean\\EjercicioListaPersonasClean\\CompositionRoot\\DI.cs",
               "RelativeDocumentMoniker": "CompositionRoot\\DI.cs",
@@ -179,8 +207,7 @@
               "RelativeToolTip": "CompositionRoot\\DI.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T12:47:13.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T12:47:13.854Z"
             }
           ]
         }
